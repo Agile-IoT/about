@@ -1,2 +1,5 @@
-# about
-just a placeholder
+# AGILE: an Adaptive & Modular Gateway for the IoT
+
+AGILE is a modular hardware and software gateway for the Internet of Things with support for protocol interoperability, device and data management, IoT apps execution, and external Cloud communication, featuring diverse pilot activities, Open Calls & Community building.
+
+Learn more @ http://agile-iot.eu/
