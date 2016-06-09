@@ -9,3 +9,7 @@ AGILE is a modular hardware and software gateway for the Internet of Things with
 
 
 Learn more @ http://agile-iot.eu/
+
+Follow us on Twitter: [@agile_iot]
+
+[@agile_iot]:<https://twitter.com/agile_iot>
